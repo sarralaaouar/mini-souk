@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<link rel="stylesheet" href="style.css">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+      <h1> Mini Souk Djerba </h1>
+        <marquee> <b>Projet presentè par Laouar sara & manel Jarray 2 bis g2  </b></marquee>
+    <nav>
+        <ul>
+          <li><a href="aceuille.html">Page d'acceuille</li>
+          <li><a href="Bijoux.html">Bijoux</a></li>
+          <li><a href="Robe.html">Robe</a></li>
+          <li><a href="chaussures.html"><u>chaussures</u></a></li>
+          <li><a href="Contact.html">Nos Contact</a></li>
+        </ul>
+      </nav>
+      <table>
+
+      <img src="aceu.png" alt="Mini Souk" width= "1600" height="643">
+    </table>
+  </body>
+</html>
